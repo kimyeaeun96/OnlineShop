@@ -44,6 +44,7 @@ export const Detail = ({ convertPrice, cart, setCart }) => {
       id: product.id,
       image: product.image,
       name: product.name,
+      price: product.price,
       provider: product.provider,
       quantity: count,
     };

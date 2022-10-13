@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid gray;
+    padding: 100px 100px;
+    margin: 100px;
+    border-radius: 30px;
+}
+
+button {
+    border-radius: 30px;
+    padding: 10px 10px;
+}
+
